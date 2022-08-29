@@ -1,0 +1,868 @@
+[C:\Projects\test_300115\test_300115\files\1.txt]
+Hello
+world!
+AA
+BB
+GG
+
+[C:\Projects\test_300115\test_300115\files\2.txt]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+[C:\Projects\test_300115\test_300115\files\3.txt]
+AA
+BB
+CC
+DD
+
+[C:\Projects\test_300115\test_300115\files\4.txt]
+Lorem
+ipsum
+dolor
+sit
+amet,
+consectetur
+adipiscing
+elit.
+Aenean
+venenatis
+mauris
+posuere
+tellus
+aliquet,
+in
+rhoncus
+nibh
+efficitur.
+Nunc
+vestibulum
+nulla
+non
+orci
+ullamcorper,
+in
+consectetur
+diam
+gravida.
+Ut
+finibus
+erat
+id
+finibus
+accumsan.
+Vestibulum
+bibendum
+sapien
+non
+dolor
+lacinia
+sodales.
+Aliquam
+at
+dapibus
+elit,
+in
+commodo
+tortor.
+Morbi
+fringilla
+ac
+urna
+quis
+fringilla.
+Nullam
+feugiat
+in
+eros
+sed
+consequat.
+Donec
+dignissim
+lobortis
+dignissim.
+Phasellus
+porta
+porttitor
+arcu
+ac
+dapibus.
+Aenean
+sit
+amet
+mi
+hendrerit,
+tincidunt
+diam
+a,
+cursus
+velit.
+Praesent
+euismod
+faucibus
+augue,
+dapibus
+ornare
+justo
+mattis
+ac.
+Fusce
+scelerisque
+aliquam
+eleifend.
+Praesent
+venenatis
+tincidunt
+mi
+at
+volutpat.
+Phasellus.
+Lorem
+ipsum
+dolor
+sit
+amet,
+consectetur
+adipiscing
+elit.
+Aenean
+venenatis
+mauris
+posuere
+tellus
+aliquet,
+in
+rhoncus
+nibh
+efficitur.
+Nunc
+vestibulum
+nulla
+non
+orci
+ullamcorper,
+in
+consectetur
+diam
+gravida.
+Ut
+finibus
+erat
+id
+finibus
+accumsan.
+Vestibulum
+bibendum
+sapien
+non
+dolor
+lacinia
+sodales.
+Aliquam
+at
+dapibus
+elit,
+in
+commodo
+tortor.
+Morbi
+fringilla
+ac
+urna
+quis
+fringilla.
+Nullam
+feugiat
+in
+eros
+sed
+consequat.
+Donec
+dignissim
+lobortis
+dignissim.
+Phasellus
+porta
+porttitor
+arcu
+ac
+dapibus.
+Aenean
+sit
+amet
+mi
+hendrerit,
+tincidunt
+diam
+a,
+cursus
+velit.
+Praesent
+euismod
+faucibus
+augue,
+dapibus
+ornare
+justo
+mattis
+ac.
+Fusce
+scelerisque
+aliquam
+eleifend.
+Praesent
+venenatis
+tincidunt
+mi
+at
+volutpat.
+Phasellus.
+Lorem
+ipsum
+dolor
+sit
+amet,
+consectetur
+adipiscing
+elit.
+Aenean
+venenatis
+mauris
+posuere
+tellus
+aliquet,
+in
+rhoncus
+nibh
+efficitur.
+Nunc
+vestibulum
+nulla
+non
+orci
+ullamcorper,
+in
+consectetur
+diam
+gravida.
+Ut
+finibus
+erat
+id
+finibus
+accumsan.
+Vestibulum
+bibendum
+sapien
+non
+dolor
+lacinia
+sodales.
+Aliquam
+at
+dapibus
+elit,
+in
+commodo
+tortor.
+Morbi
+fringilla
+ac
+urna
+quis
+fringilla.
+Nullam
+feugiat
+in
+eros
+sed
+consequat.
+Donec
+dignissim
+lobortis
+dignissim.
+Phasellus
+porta
+porttitor
+arcu
+ac
+dapibus.
+Aenean
+sit
+amet
+mi
+hendrerit,
+tincidunt
+diam
+a,
+cursus
+velit.
+Praesent
+euismod
+faucibus
+augue,
+dapibus
+ornare
+justo
+mattis
+ac.
+Fusce
+scelerisque
+aliquam
+eleifend.
+Praesent
+venenatis
+tincidunt
+mi
+at
+volutpat.
+Phasellus.
+Lorem
+ipsum
+dolor
+sit
+amet,
+consectetur
+adipiscing
+elit.
+Aenean
+venenatis
+mauris
+posuere
+tellus
+aliquet,
+in
+rhoncus
+nibh
+efficitur.
+Nunc
+vestibulum
+nulla
+non
+orci
+ullamcorper,
+in
+consectetur
+diam
+gravida.
+Ut
+finibus
+erat
+id
+finibus
+accumsan.
+Vestibulum
+bibendum
+sapien
+non
+dolor
+lacinia
+sodales.
+Aliquam
+at
+dapibus
+elit,
+in
+commodo
+tortor.
+Morbi
+fringilla
+ac
+urna
+quis
+fringilla.
+Nullam
+feugiat
+in
+eros
+sed
+consequat.
+Donec
+dignissim
+lobortis
+dignissim.
+Phasellus
+porta
+porttitor
+arcu
+ac
+dapibus.
+Aenean
+sit
+amet
+mi
+hendrerit,
+tincidunt
+diam
+a,
+cursus
+velit.
+Praesent
+euismod
+faucibus
+augue,
+dapibus
+ornare
+justo
+mattis
+ac.
+Fusce
+scelerisque
+aliquam
+eleifend.
+Praesent
+venenatis
+tincidunt
+mi
+at
+volutpat.
+Phasellus.
+Lorem
+ipsum
+dolor
+sit
+amet,
+consectetur
+adipiscing
+elit.
+Aenean
+venenatis
+mauris
+posuere
+tellus
+aliquet,
+in
+rhoncus
+nibh
+efficitur.
+Nunc
+vestibulum
+nulla
+non
+orci
+ullamcorper,
+in
+consectetur
+diam
+gravida.
+Ut
+finibus
+erat
+id
+finibus
+accumsan.
+Vestibulum
+bibendum
+sapien
+non
+dolor
+lacinia
+sodales.
+Aliquam
+at
+dapibus
+elit,
+in
+commodo
+tortor.
+Morbi
+fringilla
+ac
+urna
+quis
+fringilla.
+Nullam
+feugiat
+in
+eros
+sed
+consequat.
+Donec
+dignissim
+lobortis
+dignissim.
+Phasellus
+porta
+porttitor
+arcu
+ac
+dapibus.
+Aenean
+sit
+amet
+mi
+hendrerit,
+tincidunt
+diam
+a,
+cursus
+velit.
+Praesent
+euismod
+faucibus
+augue,
+dapibus
+ornare
+justo
+mattis
+ac.
+Fusce
+scelerisque
+aliquam
+eleifend.
+Praesent
+venenatis
+tincidunt
+mi
+at
+volutpat.
+Phasellus.
+
+[C:\Projects\test_300115\test_300115\files\5.txt]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
+ Aenean venenatis mauris posuere tellus aliquet, in rhoncus nibh efficitur
+ Nunc vestibulum nulla non orci ullamcorper, in consectetur diam gravida
+ Ut finibus erat id finibus accumsan
+ Vestibulum bibendum sapien non dolor lacinia sodales
+ Aliquam at dapibus elit, in commodo tortor
+ Morbi fringilla ac urna quis fringilla
+ Nullam feugiat in eros sed consequat
+ Donec dignissim lobortis dignissim
+ Phasellus porta porttitor arcu ac dapibus
+ Aenean sit amet mi hendrerit, tincidunt diam a, cursus velit
+ Praesent euismod faucibus augue, dapibus ornare justo mattis ac
+ Fusce scelerisque aliquam eleifend
+ Praesent venenatis tincidunt mi at volutpat
+ Phasellus
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit
+ Aenean venenatis mauris posuere tellus aliquet, in rhoncus nibh efficitur
+ Nunc vestibulum nulla non orci ullamcorper, in consectetur diam gravida
+ Ut finibus erat id finibus accumsan
+ Vestibulum bibendum sapien non dolor lacinia sodales
+ Aliquam at dapibus elit, in commodo tortor
+ Morbi fringilla ac urna quis fringilla
+ Nullam feugiat in eros sed consequat
+ Donec dignissim lobortis dignissim
+ Phasellus porta porttitor arcu ac dapibus
+ Aenean sit amet mi hendrerit, tincidunt diam a, cursus velit
+ Praesent euismod faucibus augue, dapibus ornare justo mattis ac
+ Fusce scelerisque aliquam eleifend
+ Praesent venenatis tincidunt mi at volutpat
+ Phasellus
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit
+ Aenean venenatis mauris posuere tellus aliquet, in rhoncus nibh efficitur
+ Nunc vestibulum nulla non orci ullamcorper, in consectetur diam gravida
+ Ut finibus erat id finibus accumsan
+ Vestibulum bibendum sapien non dolor lacinia sodales
+ Aliquam at dapibus elit, in commodo tortor
+ Morbi fringilla ac urna quis fringilla
+ Nullam feugiat in eros sed consequat
+ Donec dignissim lobortis dignissim
+ Phasellus porta porttitor arcu ac dapibus
+ Aenean sit amet mi hendrerit, tincidunt diam a, cursus velit
+ Praesent euismod faucibus augue, dapibus ornare justo mattis ac
+ Fusce scelerisque aliquam eleifend
+ Praesent venenatis tincidunt mi at volutpat
+ Phasellus
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit
+ Aenean venenatis mauris posuere tellus aliquet, in rhoncus nibh efficitur
+ Nunc vestibulum nulla non orci ullamcorper, in consectetur diam gravida
+ Ut finibus erat id finibus accumsan
+ Vestibulum bibendum sapien non dolor lacinia sodales
+ Aliquam at dapibus elit, in commodo tortor
+ Morbi fringilla ac urna quis fringilla
+ Nullam feugiat in eros sed consequat
+ Donec dignissim lobortis dignissim
+ Phasellus porta porttitor arcu ac dapibus
+ Aenean sit amet mi hendrerit, tincidunt diam a, cursus velit
+ Praesent euismod faucibus augue, dapibus ornare justo mattis ac
+ Fusce scelerisque aliquam eleifend
+ Praesent venenatis tincidunt mi at volutpat
+ Phasellus
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit
+ Aenean venenatis mauris posuere tellus aliquet, in rhoncus nibh efficitur
+ Nunc vestibulum nulla non orci ullamcorper, in consectetur diam gravida
+ Ut finibus erat id finibus accumsan
+ Vestibulum bibendum sapien non dolor lacinia sodales
+ Aliquam at dapibus elit, in commodo tortor
+ Morbi fringilla ac urna quis fringilla
+ Nullam feugiat in eros sed consequat
+ Donec dignissim lobortis dignissim
+ Phasellus porta porttitor arcu ac dapibus
+ Aenean sit amet mi hendrerit, tincidunt diam a, cursus velit
+ Praesent euismod faucibus augue, dapibus ornare justo mattis ac
+ Fusce scelerisque aliquam eleifend
+ Praesent venenatis tincidunt mi at volutpat
+ Phasellus
+
+
+[C:\Projects\test_300115\test_300115\files\subdir\7.txt]
+
+[C:\Projects\test_300115\test_300115\files\subdir\6.txt]
+Lore
+ ipsu
+ dolor sit a
+et, 
+onse
+tetur adipis
+ing elit. 
+enean venenatis 
+auris posuere tellus aliquet, in rhon
+us nibh effi
+itur. Nun
+ vestibulu
+ nulla non or
+i ulla
+
+orper, in 
+onse
+tetur dia
+ gravida. Ut finibus erat id finibus a
+u
+san. Vestibulu
+ bibendu
+ sapien non dolor la
+inia sodales. 
+liqua
+ at dapibus elit, in 
+o
+
+odo tortor. Morbi fringilla a
+ urna quis fringilla. Nulla
+ feugiat in eros sed 
+onsequat. Done
+ dignissi
+ lobortis dignissi
+. Phasellus porta porttitor ar
+u a
+ dapibus. 
+enean sit a
+et 
+i hendrerit, tin
+idunt dia
+ a, 
+ursus velit. Praesent euis
+od fau
+ibus augue, dapibus ornare justo 
+attis a
+. Fus
+e s
+elerisque aliqua
+ eleifend. Praesent venenatis tin
+idunt 
+i at volutpat. Phasellus. Lore
+ ipsu
+ dolor sit a
+et, 
+onse
+tetur adipis
+ing elit. 
+enean venenatis 
+auris posuere tellus aliquet, in rhon
+us nibh effi
+itur. Nun
+ vestibulu
+ nulla non or
+i ulla
+
+orper, in 
+onse
+tetur dia
+ gravida. Ut finibus erat id finibus a
+u
+san. Vestibulu
+ bibendu
+ sapien non dolor la
+inia sodales. 
+liqua
+ at dapibus elit, in 
+o
+
+odo tortor. Morbi fringilla a
+ urna quis fringilla. Nulla
+ feugiat in eros sed 
+onsequat. Done
+ dignissi
+ lobortis dignissi
+. Phasellus porta porttitor ar
+u a
+ dapibus. 
+enean sit a
+et 
+i hendrerit, tin
+idunt dia
+ a, 
+ursus velit. Praesent euis
+od fau
+ibus augue, dapibus ornare justo 
+attis a
+. Fus
+e s
+elerisque aliqua
+ eleifend. Praesent venenatis tin
+idunt 
+i at volutpat. Phasellus. Lore
+ ipsu
+ dolor sit a
+et, 
+onse
+tetur adipis
+ing elit. 
+enean venenatis 
+auris posuere tellus aliquet, in rhon
+us nibh effi
+itur. Nun
+ vestibulu
+ nulla non or
+i ulla
+
+orper, in 
+onse
+tetur dia
+ gravida. Ut finibus erat id finibus a
+u
+san. Vestibulu
+ bibendu
+ sapien non dolor la
+inia sodales. 
+liqua
+ at dapibus elit, in 
+o
+
+odo tortor. Morbi fringilla a
+ urna quis fringilla. Nulla
+ feugiat in eros sed 
+onsequat. Done
+ dignissi
+ lobortis dignissi
+. Phasellus porta porttitor ar
+u a
+ dapibus. 
+enean sit a
+et 
+i hendrerit, tin
+idunt dia
+ a, 
+ursus velit. Praesent euis
+od fau
+ibus augue, dapibus ornare justo 
+attis a
+. Fus
+e s
+elerisque aliqua
+ eleifend. Praesent venenatis tin
+idunt 
+i at volutpat. Phasellus. Lore
+ ipsu
+ dolor sit a
+et, 
+onse
+tetur adipis
+ing elit. 
+enean venenatis 
+auris posuere tellus aliquet, in rhon
+us nibh effi
+itur. Nun
+ vestibulu
+ nulla non or
+i ulla
+
+orper, in 
+onse
+tetur dia
+ gravida. Ut finibus erat id finibus a
+u
+san. Vestibulu
+ bibendu
+ sapien non dolor la
+inia sodales. 
+liqua
+ at dapibus elit, in 
+o
+
+odo tortor. Morbi fringilla a
+ urna quis fringilla. Nulla
+ feugiat in eros sed 
+onsequat. Done
+ dignissi
+ lobortis dignissi
+. Phasellus porta porttitor ar
+u a
+ dapibus. 
+enean sit a
+et 
+i hendrerit, tin
+idunt dia
+ a, 
+ursus velit. Praesent euis
+od fau
+ibus augue, dapibus ornare justo 
+attis a
+. Fus
+e s
+elerisque aliqua
+ eleifend. Praesent venenatis tin
+idunt 
+i at volutpat. Phasellus. Lore
+ ipsu
+ dolor sit a
+et, 
+onse
+tetur adipis
+ing elit. 
+enean venenatis 
+auris posuere tellus aliquet, in rhon
+us nibh effi
+itur. Nun
+ vestibulu
+ nulla non or
+i ulla
+
+orper, in 
+onse
+tetur dia
+ gravida. Ut finibus erat id finibus a
+u
+san. Vestibulu
+ bibendu
+ sapien non dolor la
+inia sodales. 
+liqua
+ at dapibus elit, in 
+o
+
+odo tortor. Morbi fringilla a
+ urna quis fringilla. Nulla
+ feugiat in eros sed 
+onsequat. Done
+ dignissi
+ lobortis dignissi
+. Phasellus porta porttitor ar
+u a
+ dapibus. 
+enean sit a
+et 
+i hendrerit, tin
+idunt dia
+ a, 
+ursus velit. Praesent euis
+od fau
+ibus augue, dapibus ornare justo 
+attis a
+. Fus
+e s
+elerisque aliqua
+ eleifend. Praesent venenatis tin
+idunt 
+i at volutpat. Phasellus.
+
+[C:\Projects\test_300115\test_300115\files\subdir\sub\8.txt]
+Hello world!
+
