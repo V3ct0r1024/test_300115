@@ -27,7 +27,7 @@ int main(int argc, char **argv)
 			break;
 
 		case v3ct0r::application::return_errno_t::wrong_params:
-			std::cout << "Wrong params! Usage: program.exe <path to files>" << std::endl;
+			std::cout << "Wrong params! Usage: program.exe <path to files> <path to output file>" << std::endl;
 			break;
 
 		default:

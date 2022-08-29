@@ -21,18 +21,21 @@ namespace v3ct0r
 	application::return_errno_t application::run(int argc, char** argv)
 	{
 		// Проверим число параметров
-		if (argc != 2) {
+		if (argc != 3) {
 			return return_errno_t::wrong_params;
 		}
 
 		// Отформатируем путь до директории c файлами
-		const std::string path = utils::string::format_path(argv[1]);
+		const std::string input_path = utils::string::format_path(argv[1]);
+
+		// Получим путь до выходного файла
+		const std::string output_path = std::string(argv[2]);
 
 		// Удалим старый список файлов
 		file_list_t().swap(m_files);
 
 		// Ищем файлы в указанной директории
-		search_files(path, m_files);
+		search_files(input_path, m_files);
 
 		// Проверим, что файлы не найдены
 		if (m_files.empty() == true)
@@ -42,7 +45,7 @@ namespace v3ct0r
 		}
 
 		// Открываем выходной файл на запись
-		m_output = std::make_shared<std::ofstream>("output.txt", std::ofstream::out | std::ofstream::trunc);
+		m_output = std::make_shared<std::ofstream>(output_path, std::ofstream::out | std::ofstream::trunc);
 
 		// Проверим, что файл открыт
 		if (m_output->is_open() == false)
